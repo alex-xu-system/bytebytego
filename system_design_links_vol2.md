@@ -102,8 +102,8 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [8] OpenTSDB - A Distributed, Scalable Monitoring System. http://opentsdb.net/.  
 [9] Data model. :https://prometheus.io/docs/concepts/data_model/.  
 [10] MySQL. https://www.mysql.com/.  
-[11] Schema design for time-series data | Cloud Bigtable Documentation. https://cloud. google.com/bigtable/docs/schema-design-time-series.  
-[12] MetricsDB. TimeSeriesDatabaseforstoringmetricsatTwitter:https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html.  
+[11] Schema design for time-series data | Cloud Bigtable Documentation. https://cloud.google.com/bigtable/docs/schema-design-time-series.  
+[12] TimeSeries Database for storing metrics at Twitter. :https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html.  
 [13] Amazon Timestream. https://aws.amazon.com/timestream/.  
 [14] DB-Engines Ranking of time-series DBMS. https://db-engines.com/en/ranking/time+series+dbms.  
 [15] InfluxDB. https://www.influxdata.com/.  
@@ -145,7 +145,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [18] Ad traffic quality. https://www.google.com/ads/adtrafficquality/.  
 [19] Understanding MapReduce in Hadoop. https://www.section.io/engineering-education/understanding-map-reduce-in-hadoop/.  
 [20] Flink on Apache Yarn. https://ci.apache.org/projects/flink/flink-docs-release-1.13/docs/deployment/resource-providers/yarn/.  
-[21] How data is distributed across a cluster (using virtual nodes). https://docs.datasta x.com/en/cassandra-oss/3.0/cassandra/architecture/archDataDistributeDistribute.html.  
+[21] How data is distributed across a cluster (using virtual nodes). https://docs.datastax.com/en/cassandra-oss/3.0/cassandra/architecture/archDataDistributeDistribute.html.  
 [22] Flink performance tuning. https://nightlies.apache.org/flink/flink-docs-master/docs/dev/table/tuning/.  
 [23] ClickHouse. https://clickhouse.com/.  
 [24] Druid. https://druid.apache.org/.  
@@ -160,7 +160,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [5] Serializability. https://en.wikipedia.org/wiki/Serializability.  
 [6] Optimistic and pessimistic record locking. https://ibm.co/3Eb293O.  
 [7] Optimistic concurrency control. https://en.wikipedia.org/wiki/Optimistic_concurrency_control.  
-[8] Change data capture. https://docs.oracle.com/cd/B10500_01/server.920/a96520/cd c.htm.  
+[8] Change data capture. https://docs.oracle.com/cd/B10500_01/server.920/a96520/cdc.htm.  
 [9] Debizium. https://debezium.io/.  
 [10] Redis sink. https://bit.ly/3r3AEUD.  
 [11] Monolithic Architecture. https://microservices.io/patterns/monolithic.html.  
@@ -239,7 +239,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [3] Geekbang. https://static001.geekbang.org/resource/image/46/a9/46d283cd82c987153b3fe0c76dfba8a9.jpg.  
 [4] Building real-time Leaderboard with Redis. https://medium.com/@sandeep4.verma/building-real-time-leaderboard-with-redis-82c98aa47b9f.  
 [5] Build a real-time gaming leaderboard with Amazon ElastiCache for Redis. https://aws.amazon.com/blogs/database/building-a-real-time-gaming-leaderboard-with-amazon-elasticache-for-redis.  
-[6] How we created a real-time Leaderboard for a million Users. https://levelup.gitcon nected.com/how-we-created-a-real-time-leaderboard-for-a-million-users-555aaa3ccf7b.  
+[6] How we created a real-time Leaderboard for a million Users. https://levelup.gitconnected.com/how-we-created-a-real-time-leaderboard-for-a-million-users-555aaa3ccf7b.  
 [7] Leaderboards. https://redislabs.com/solutions/use-cases/leaderboards/.  
 [8] Lambda. https://aws.amazon.com/lambda/.  
 [9] Google Cloud Functions. https://cloud.google.com/functions.  
@@ -267,7 +267,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [11] Webhooks. https://stripe.com/docs/webhooks.  
 [12] Customize your success page. https://stripe.com/docs/payments/checkout/custom-success-page.  
 [13] 3D Secure. https://en.wikipedia.org/wiki/3-D_Secure.  
-[14] Kafka Connect Deep Dive – Error Handling and Dead Letter Queues. https://www. confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/.  
+[14] Kafka Connect Deep Dive – Error Handling and Dead Letter Queues. https://www.confluent.io/blog/kafka-connect-deep-dive-error-handling-dead-letter-queues/.  
 [15] Reliable Processing in a Streaming Payment System. https://www.youtube.com/watch?v=5TD8m7w1xE0&list=PLLEUtp5eGr7Dz3fWGUpiSiG3d_WgJe-KJ.  
 [16] Chain Services with Exactly-Once Guarantees. https://www.confluent.io/blog/chain-services-exactly-guarantees/.  
 [17] Exponential backoff. https://en.wikipedia.org/wiki/Exponential_backoff.  
@@ -283,12 +283,12 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [27] Advanced Technologies for Detecting and Preventing Fraud at Uber. https://eng.uber.com/advanced-technologies-detecting-preventing-fraud-uber/.  
 [28] Re-Architecting Cash and Digital Wallet Payments for India with Uber Engineering. https://eng.uber.com/india-payments/.  
 [29] Scaling Airbnb’s Payment Platform. https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324.  
-[30] Payments Integration at Uber: A Case Study – Gergely Orosz. https://www.youtub e.com/watch?v=yooCE5B0SRA.
+[30] Payments Integration at Uber: A Case Study – Gergely Orosz. https://www.youtube.com/watch?v=yooCE5B0SRA.
 
 ## Chapter 12. Digital Wallet
 
-[1] Transactional guarantees. https://docs.oracle.com/cd/E17275_01/html/programme r_reference/rep_trans.html.  
-[2] TPC-E Top Price/Performance Results. http://tpc.org/tpce/results/tpce_price_per f_results5.asp?resulttype=all.  
+[1] Transactional guarantees. https://docs.oracle.com/cd/E17275_01/html/programmer_reference/rep_trans.html.  
+[2] TPC-E Top Price/Performance Results. http://tpc.org/tpce/results/tpce_price_perf_results5.asp?resulttype=all.  
 [3] ISO 4217 CURRENCY CODES. https://en.wikipedia.org/wiki/ISO_4217.  
 [4] Apache ZooKeeper. https://zookeeper.apache.org/.  
 [5] Martin Kleppmann. Designing Data-Intensive Applications. O’Reilly Media, 2017.  
@@ -308,7 +308,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 
 ## Chapter 13. Stock Exchange
 
-[1] LMAX exchange was famous for its open-source Disruptor. https://www.lmax.com /exchange.  
+[1] LMAX exchange was famous for its open-source Disruptor. https://www.lmax.com/exchange.  
 [2] IEX attracts investors by “playing fair”, also is the “Flash Boys Exchange”. https://en.wikipedia.org/wiki/IEX.  
 [3] NYSE matched volume. https://www.nyse.com/markets/us-equity-volumes.  
 [4] HKEX daily trading volume. https://www.hkex.com.hk/Market-Data/Statistics/Consolidated-Reports/Securities-Statistics-Archive/Trading\_Value_Volume_And_Number\_Of\_Deals?sc_lang=en#select1=0.  
