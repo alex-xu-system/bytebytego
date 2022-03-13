@@ -1,10 +1,10 @@
-Reference Materials for System Design Interview - An Insider's Guide book (https://amzn.to/3ggPKAG))  
-  
-## Chapter 1: Scale From Zero To Millions Of Users  
-  
+Reference Materials for System Design Interview - An Insider's Guide (Volume 1) book (https://amzn.to/3ggPKAG)
+
+## Chapter 1: Scale From Zero To Millions Of Users
+
 [[1] Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)  
 [[2] Should you go Beyond Relational Databases?](https://blog.teamtreehouse.com/should-you-go-beyond-relational-databases)  
-[[3] Replication](https://en.wikipedia.org/wiki/Replication_(computing))  
+[[3] Replication](<https://en.wikipedia.org/wiki/Replication_(computing)>)  
 [[4] Multi-master replication](https://en.wikipedia.org/wiki/Multi-master_replication)  
 [[5] NDB Cluster Replication - Multi-Master and Circular Replication](https://dev.mysql.com/doc/refman/5.7/en/mysql-cluster-replication-multi-source.html)  
 [[6] Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)  
@@ -15,19 +15,19 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[11] Active-Active for Multi-Regional Resiliency](https://netflixtechblog.com/active-active-for-multi-regional-resiliency-c47719f6685b)  
 [[12] Amazon EC2 High Memory Instances](https://aws.amazon.com/ec2/instance-types/high-memory/)  
 [[13] What it takes to run Stack Overflow](http://nickcraver.com/blog/2013/11/22/what-it-takes-to-run-stack-overflow)  
-[[14] What The Heck Are You Actually Using NoSQL For](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)  
-  
-## Chapter 2: Back-of-the-envelope Estimation  
-  
+[[14] What The Heck Are You Actually Using NoSQL For](http://highscalability.com/blog/2010/12/6/what-the-heck-are-you-actually-using-nosql-for.html)
+
+## Chapter 2: Back-of-the-envelope Estimation
+
 [[1] J. Dean.Google Pro Tip - Use Back-Of-The-Envelope-Calculations To Choose The Best Design](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)  
 [[2] System design primer](https://github.com/donnemartin/system-design-primer)  
 [[3] Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)  
 [[4] Amazon Compute Service Level Agreement](https://aws.amazon.com/compute/sla/)  
 [[5] Compute Engine Service Level Agreement (SLA)](https://cloud.google.com/compute/sla)  
-[[6] SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)  
-  
-## Chapter 4: Design A Rate Limiter:  
-  
+[[6] SLA summary for Azure services](https://azure.microsoft.com/en-us/support/legal/sla/summary/)
+
+## Chapter 4: Design A Rate Limiter:
+
 [[1] Rate-limiting strategies and techniques](https://cloud.google.com/solutions/rate-limiting-strategies-techniques)  
 [[2] Twitter rate limits](https://developer.twitter.com/en/docs/basics/rate-limits)  
 [[3] Google docs usage limits](https://developers.google.com/docs/api/limits)  
@@ -43,20 +43,20 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[13] Scaling your API with rate limiters](https://gist.github.com/ptarjan/e38f45f2dfe601419ca3af937fff574d#request-rate-limiter)  
 [[14] What is edge computing](https://www.cloudflare.com/learning/serverless/glossary/what-is-edge-computing/)  
 [[15] Rate Limit Requests with Iptables](https://blog.programster.org/rate-limit-requests-with-iptables)  
-[[16] OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_architecture)  
-  
-## Chapter 5: Design Consistent Hashing  
-  
+[[16] OSI model](https://en.wikipedia.org/wiki/OSI_model#Layer_architecture)
+
+## Chapter 5: Design Consistent Hashing
+
 [[1] Consistent hashing wiki](https://en.wikipedia.org/wiki/Consistent_hashing)  
 [[2] Consistent Hashing](https://tom-e-white.com/2007/11/consistent-hashing.html)  
 [[3] Dynamo - Amazon's Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)  
 [[4] Cassandra - A Decentralized Structured Storage System](http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF)  
 [[5] How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discord.com/scaling-elixir-f9b8e1e7c29b)  
 [[6] CS168 - The Modern Algorithmic Toolbox Lecture #1: Introduction and Consistent Hashing](http://theory.stanford.edu/~tim/s16/l/l1.pdf)  
-[[7] Maglev - A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)  
-  
-## Chapter 6: Design A Key-value Store  
-  
+[[7] Maglev - A Fast and Reliable Software Network Load Balancer](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44824.pdf)
+
+## Chapter 6: Design A Key-value Store
+
 [[1] Amazon DynamoDB](https://aws.amazon.com/dynamodb/)  
 [[2] memcached](https://memcached.org/)  
 [[3] Redis](https://redis.io/)  
@@ -66,22 +66,22 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[7] Merkle tree](https://en.wikipedia.org/wiki/Merkle_tree)  
 [[8] Cassandra architecture](https://cassandra.apache.org/doc/latest/architecture/)  
 [[9] SStable](https://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/)  
-[[10] Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)  
-  
-## Chapter 7: Design A Unique Id Generator In Distributed Systems  
-  
+[[10] Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+
+## Chapter 7: Design A Unique Id Generator In Distributed Systems
+
 [[1] Universally unique identifier](https://en.wikipedia.org/wiki/Universally_unique_identifier)  
 [[2] Ticket Servers - Distributed Unique Primary Keys on the Cheap](https://code.flickr.net/2010/02/08/ticket-servers-distributed-unique-primary-keys-on-the-cheap/)  
 [[3] Announcing Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html)  
-[[4] Network time protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)  
-  
-## Chapter 8: Design A Url Shortener  
-  
+[[4] Network time protocol](https://en.wikipedia.org/wiki/Network_Time_Protocol)
+
+## Chapter 8: Design A Url Shortener
+
 [[1] A RESTful Tutorial](https://www.restapitutorial.com/index.html)  
-[[2] Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)  
-  
-## Chapter 9: Design A Web Crawler  
-  
+[[2] Bloom filter](https://en.wikipedia.org/wiki/Bloom_filter)
+
+## Chapter 9: Design A Web Crawler
+
 [[1] US Library of Congress](https://www.loc.gov/websites/)  
 [[2] EU Web Archive](http://data.europa.eu/webarchive)  
 [[3] Digimarc](https://www.digimarc.com/products/digimarc-services/piracy-intelligence)  
@@ -95,25 +95,25 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [11] Burton Bloom. Space/time trade-offs in hash coding with allowable errors. Communications of the ACM, 13(7), pages 422--426, July 1970.  
 [[12] Google Dynamic Rendering](https://developers.google.com/search/docs/guides/dynamic-rendering)  
 [13] T. Urvoy, T. Lavergne, and P. Filoche, Tracking web spam with hidden style similarity, in Proceedings of the 2nd International Workshop on Adversarial Information Retrieval on the Web, 2006.  
-[[14] IRLbot: Scaling to 6 billion pages and beyond](http://irl.cs.tamu.edu/people/hsin-tsang/papers/tweb2009.pdf)  
-  
-## Chapter 10: Design A Notification System  
-  
+[[14] IRLbot: Scaling to 6 billion pages and beyond](http://irl.cs.tamu.edu/people/hsin-tsang/papers/tweb2009.pdf)
+
+## Chapter 10: Design A Notification System
+
 [[1] Twilio SMS](https://www.twilio.com/sms)  
 [[2] Nexmo SMS](https://www.nexmo.com/products/sms)  
 [[3] Sendgrid](https://sendgrid.com/)  
 [[4] Mailchimp](https://mailchimp.com/)  
 [[5] You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)  
 [[6] App Keys & Secrets: Security](https://bit.ly/36txfnV)  
-[[7] RadditMQ](https://bit.ly/2sotIa6)  
-  
-## Chapter 11: Design A News Feed System  
-  
+[[7] RadditMQ](https://bit.ly/2sotIa6)
+
+## Chapter 11: Design A News Feed System
+
 [[1] How News Feed Works](https://www.facebook.com/help/327131014036297/)  
-[[2] Friend of Friend recommendations Neo4j and SQL Sever](https://bit.ly/3rcNPlO)  
-  
-## Chapter 12: Design A Chat System  
-  
+[[2] Friend of Friend recommendations Neo4j and SQL Sever](https://bit.ly/3rcNPlO)
+
+## Chapter 12: Design A Chat System
+
 [[1] Erlang at Facebook](https://www.erlang-factory.com/upload/presentations/31/EugeneLetuchy-ErlangatFacebook.pdf)  
 [[2] Messenger and WhatsApp process 60 billion messages a day](https://www.theverge.com/2016/4/12/11415198/facebook-messenger-whatsapp-number-messages-vs-sms-f8-2016)  
 [[3] Long tail](https://en.wikipedia.org/wiki/Long_tail)  
@@ -123,10 +123,10 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[7] Apache ZooKeeper](https://zookeeper.apache.org/)  
 [[8] From nothing: the evolution of WeChat background system (Article in Chinese)](https://www.infoq.cn/article/the-road-of-the-growth-weixin-background)  
 [[9] End-to-end encryption](https://faq.whatsapp.com/en/android/28030015/)  
-[[10] Flannel: An Application-Level Edge Cache to Make Slack Scale](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale-b8a6400e2f6b)  
-  
-##  13: Design A Search Autocomplete System  
-  
+[[10] Flannel: An Application-Level Edge Cache to Make Slack Scale](https://slack.engineering/flannel-an-application-level-edge-cache-to-make-slack-scale-b8a6400e2f6b)
+
+## 13: Design A Search Autocomplete System
+
 [[1] The Life of a Typeahead Query](https://www.facebook.com/notes/facebook-engineering/the-life-of-a-typeahead-query/389105248919/)  
 [[2] How We Built Prefixy: A Scalable Prefix Search Service for Powering Autocomplete](https://medium.com/@prefixyteam/how-we-built-prefixy-a-scalable-prefix-search-service-for-powering-autocomplete-c20f98e2eff1)  
 [[3] Prefix Hash Tree An Indexing Data Structure over Distributed Hash Tables](https://people.eecs.berkeley.edu/~sylvia/papers/pht.pdf)  
@@ -135,10 +135,10 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[6] Apache hadoop](https://hadoop.apache.org/)  
 [[7] Spark streaming](https://spark.apache.org/streaming/)  
 [[8] Apache storm](https://storm.apache.org/)  
-[[9] Apache kafka](https://kafka.apache.org/documentation/)  
-  
-## Chapter 14: Design Youtube  
-  
+[[9] Apache kafka](https://kafka.apache.org/documentation/)
+
+## Chapter 14: Design Youtube
+
 [[1] YouTube by the numbers](https://www.omnicoreagency.com/youtube-statistics/)  
 [[2] 2019 YouTube Demographics](https://blog.hubspot.com/marketing/youtube-demographics)  
 [[3] Cloudfront Pricing](https://aws.amazon.com/cloudfront/pricing/)  
@@ -151,10 +151,10 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[10] Delegate access with a shared access signature](https://docs.microsoft.com/en-us/rest/api/storageservices/delegate-access-with-shared-access-signature)  
 [[11] YouTube scalability talk by early YouTube employee](https://www.youtube.com/watch?v=w5WVu624fY8)  
 [[12] Understanding the characteristics of internet short video sharing: A youtube-based measurement study](https://arxiv.org/pdf/0707.3670.pdf)  
-[[13] Content Popularity for Open Connect](https://netflixtechblog.com/content-popularity-for-open-connect-b86d56f613b)  
-  
-## Chapter 15: Design Google Drive  
-  
+[[13] Content Popularity for Open Connect](https://netflixtechblog.com/content-popularity-for-open-connect-b86d56f613b)
+
+## Chapter 15: Design Google Drive
+
 [[1] Google Drive](https://www.google.com/drive/)  
 [[2] Upload file data](https://developers.google.com/drive/api/v2/manage-uploads)  
 [[3] Amazon S3](https://aws.amazon.com/s3)  
@@ -165,9 +165,10 @@ Reference Materials for System Design Interview - An Insider's Guide book (https
 [[8] Librsync. (n.d.). Retrieved April 18, 2015, from](https://github.com/librsync/librsync)  
 [[9] ACID](https://en.wikipedia.org/wiki/ACID)  
 [[10] Dropbox security white paper](https://www.dropbox.com/static/business/resources/Security_Whitepaper.pdf)  
-[[11] Amazon S3 Glacier](https://aws.amazon.com/glacier/faqs/)  
-  
-### Real-world systems  
+[[11] Amazon S3 Glacier](https://aws.amazon.com/glacier/faqs/)
+
+### Real-world systems
+
 The following materials can help you understand general design ideas of real system architectures behind different companies.  
 [Facebook Timeline: Brought To You By The Power Of Denormalization](https://goo.gl/FCNrbm)  
 [Scale at Facebook](https://www.infoq.com/presentations/Scale-at-Facebook/)  
@@ -200,9 +201,10 @@ The following materials can help you understand general design ideas of real sys
 [A Brief History of Scaling LinkedIn](https://goo.gl/8A1Pi8)  
 [Flickr Architecture](https://goo.gl/dWtgYa)  
 [How We've Scaled Dropbox](https://goo.gl/NjBDtC)  
-[The WhatsApp Architecture Facebook Bought For $19 Billion](https://bit.ly/2AHJnFn)  
-  
-### Company engineering blogs  
+[The WhatsApp Architecture Facebook Bought For $19 Billion](https://bit.ly/2AHJnFn)
+
+### Company engineering blogs
+
 [Airbnb](https://medium.com/airbnb-engineering)  
 [Amazon](https://developer.amazon.com/blogs)  
 [Asana](https://blog.asana.com/category/eng)  
@@ -239,4 +241,4 @@ The following materials can help you understand general design ideas of real sys
 [Uber](http://eng.uber.com)  
 [Yahoo](https://yahooeng.tumblr.com)  
 [Yelp](https://engineeringblog.yelp.com)  
-[Zoom](https://medium.com/zoom-developer-blog)  
+[Zoom](https://medium.com/zoom-developer-blog)
