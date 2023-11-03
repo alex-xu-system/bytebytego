@@ -39,7 +39,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 
 [1] Facebook Launches “Nearby Friends”. https://techcrunch.com/2014/04/17/facebook-nearby-friends/.  
 [2] Redis Pub/Sub. https://redis.io/topics/pubsub.  
-[3] Redis Pub/Sub under the hood. https://making.pusher.com/redis-pubsub-under-the-hood/.  
+[3] Redis Pub/Sub under the hood. https://jameshfisher.com/2017/03/01/redis-pubsub-under-the-hood/.  
 [4] etcd. https://etcd.io/.  
 [5] ZooKeeper. https://zookeeper.apache.org/.  
 [6] Consistent hashingones. https://www.toptal.com/big-data/consistent-hashing.  
