@@ -63,7 +63,7 @@ Reference Materials for System Design Interview - An Insider's Guide (Volume 2) 
 [11] Directions API. https://developers.google.com/maps/documentation/directions/start?hl=en_US.  
 [12] Adjacency list. https://en.wikipedia.org/wiki/Adjacency_list.  
 [13] CAP theorem. https://en.wikipedia.org/wiki/CAP_theorem.  
-[14] Routing Tiles. https://valhalla.readthedocs.io/en/latest/mjolnir/why_tiles/.  
+[14] Routing Tiles. https://valhalla.github.io/valhalla/mjolnir/why_tiles/.  
 [15] ETAs with GNNs. https://deepmind.com/blog/article/traffic-prediction-with-advanced-graph-neural-networks.  
 [16] Google Maps 101: How AI helps predict traffic and determine routes. https://blog.google/products/maps/google-maps-101-how-ai-helps-predict-traffic-and-determine-routes/.
 
